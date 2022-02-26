@@ -1,0 +1,7 @@
+git1º Crie o arquivo dentro da pasta do seu repositório no computador
+2º Dê um "git status" para verificar se o Git entendeu que tem uma pasta nova. (o nome da pasta aparece em vermelho)
+3º Dê um "git add ." para adicionar todos os arquivos.
+4º Dê um "git status" para verificar se o Git endendeu que nós queremos subir o arquivo. (o nome da pasta vai ficar verdinho)
+5º Dê um "git commit -m para mandar o comentário do commit (ex.: "Passos para subir um arquivo para o GIT)
+6º Dê um "git push origin main" para enviar todas as mudanças feitas na pasta do repositório. 
+
